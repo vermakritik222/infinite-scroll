@@ -21,16 +21,16 @@ This infinite scroll in implemented from scratch using `IntersectionObserver` ap
 
 - Step 7 : Go to [http://localhost:3000]()
  
-<!-- ## Run Using Docker
+## Run Using Docker
 
 - Step 1 : Go to [https://newsapi.org]() and generate your api key
 
 - Step 2 : Run command
   ```sh
-  docker run -e REACT_APP_API_KEY=your_api_key -p 3000:3000 <Image Name> 
+  docker run -e REACT_APP_API_KEY=your_api_key -p 3000:3000 kritikverma2002/infinite_scroll 
   ``` 
 
-- Step 3 : Go to [http://localhost:3000]() -->
+- Step 3 : Go to [http://localhost:3000]()
 
 # Demo
 ## [Video Demo](screenshot/v1.mp4)
